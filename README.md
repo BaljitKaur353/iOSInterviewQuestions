@@ -9,3 +9,4 @@ Check it out for the interview preparations for iOS
 - [iOS Interview Questions - Part 4](https://medium.com/@baljitKaurGoraya/ios-interview-questions-part-4-daa9aa8f976d)
 - [iOS Interview Questions - Part 5](https://medium.com/swift-interview-preparations/ios-interview-questions-part-5-87e88104beb0)
 - [iOS Interview Questions - Part 6](https://medium.com/swift-interview-preparations/ios-interview-questions-part-6-88e23a810b78)
+- [iOS Interview Questions - Part 7](https://medium.com/swift-interview-preparations/ios-interview-questions-part-7-86894abed8e8)
