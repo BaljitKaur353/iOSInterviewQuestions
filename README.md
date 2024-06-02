@@ -1,6 +1,7 @@
-# iOSInterviewQuestions
-Interview Questions about swift, iOs, Xcode
+# Swift-iOSInterviewQuestions
+Interview Questions about swift, iOS, Xcode
 Follow me on : [Medium](https://medium.com/@baljitKaurGoraya)
+Follow this publication for Swift-iOS interview preparations : [Swift-iOS Interview Preparations](https://medium.com/swift-interview-preparations)
 
 Check it out for the interview preparations for iOS
 - [iOS Interview Questions - Part 1](https://medium.com/swift-interview-preparations/ios-interview-questions-part-1-29f1a48b9cbf)
