@@ -14,6 +14,7 @@ Check it out for the interview preparations for Swift-iOS
 - [Swift-iOS Interview Questions - Part 6](https://medium.com/swift-interview-preparations/ios-interview-questions-part-6-88e23a810b78)
 - [Swift-iOS Interview Questions - Part 7](https://medium.com/swift-interview-preparations/ios-interview-questions-part-7-86894abed8e8)
 - [Swift-iOS Interview Questions - Part 8](https://medium.com/swift-interview-preparations/swift-ios-interview-questions-part-8-124723f72c08)
+- [Swift-iOS Interview Questions - Part 9](https://medium.com/swift-interview-preparations/swift-ios-interview-questions-part-9-34769750ed46)
 
 Check it out for the interview preparations for SwiftUI-iOS
 
