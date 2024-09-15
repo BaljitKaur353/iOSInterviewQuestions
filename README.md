@@ -19,3 +19,4 @@ Check it out for the interview preparations for SwiftUI-iOS
 
 - [SwiftUI-iOS Interview Questions - Part 1](https://medium.com/@baljitKaurGoraya/swiftui-ios-interview-preparations-part-1-1c3051505617)
 - [SwiftUI-iOS Interview Questions - Part 2](https://medium.com/swiftui-interview-preparations/swiftui-ios-interview-preparations-part-2-52830fdeb26a)
+- [SwiftUI-iOS Interview Questions - Part 3](https://medium.com/swiftui-interview-preparations/swiftui-ios-interview-preparations-part-3-5df2a550fef3)
